@@ -55,8 +55,8 @@ only satisfy condition 3)
 ## Question 2:
 * Write test first:
 * result based on first test and cdoe:
-  ![Test Message] (https://github.com/StrikeR2018/TDD/blob/main/question2/first_test/results/b8112a3357e61486f1581b738a4cf52.png)
+  ![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question2/first_test/results/b8112a3357e61486f1581b738a4cf52.png)
 * Then modify code, results after modification:
-![Test Message] (https://github.com/StrikeR2018/TDD/blob/main/question2/second_test/results/ff5e693729d654acc980473823028a2.png)
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question2/second_test/results/ff5e693729d654acc980473823028a2.png)
 * add more cases and result:
-![Test Message] (https://github.com/StrikeR2018/TDD/blob/main/question2/second_test/results/97c06a6aa96ea13d3f906178b31c77e.png)
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question2/second_test/results/97c06a6aa96ea13d3f906178b31c77e.png)
