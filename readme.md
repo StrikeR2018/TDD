@@ -1,7 +1,10 @@
+TDD process (from lecture notes)<br/>
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/cb6bf48f57fb3aa0ff172565cb2930a.png)
+<br/>
+Recourse from class: [Test Driven Development.pdf](https://github.com/StrikeR2018/TDD/blob/main/Test%20Driven%20Development.pdf)
 ## Question 1:
 
-TDD process (from lecture notes)
-![Test Message](https://github.com/StrikeR2018/TDD/blob/main/cb6bf48f57fb3aa0ff172565cb2930a.png)
+
 * Write the test first,  then modify the code 
 The file:
 ![Test Message](https://github.com/StrikeR2018/TDD/blob/main/first-testfile.png)
