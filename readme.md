@@ -32,4 +32,16 @@ The problem is, when we pass in the multiple of 15, it will satisfy both 1), 2) 
 only satisfy condition 3)
 
 Then, based on the first-test, modify our code!!
+after modification:
+  def fizzBuzz(num):
+      if(num%15 == 0):
+          return "FizzBuzz"
+      elif(num%3 == 0):
+          return "Fizz" 
+      elif(num%5 == 0):
+          return "Buzz"
+      else: 
+          return "not multiple of 3, 5, 15"     
 
+output of same test file but run with modified code:
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question1/second_test/results/results-second-test.png)
