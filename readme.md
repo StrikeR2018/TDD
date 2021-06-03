@@ -1,6 +1,8 @@
 Question 1:
 
 ====  Write the test first,  then modify the code  ====
+The file:
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/first-testfile.png)
 The first commit of question-1: the output of first test
 ![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question1/first_test/results/results-first.png)
 
@@ -46,3 +48,6 @@ after modification:
 
 output of same test file but run with modified code:
 ![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question1/second_test/results/results-second-test.png)
+
+Then write more test-cases to avoid any possible blind spot, output:
+![Test Message](https://github.com/StrikeR2018/TDD/blob/main/question1/third_test/results/final-results.png)
